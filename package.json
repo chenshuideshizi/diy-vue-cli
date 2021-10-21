@@ -1,7 +1,7 @@
 {
   "name": "fwx-cli",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "fwx-cli 脚手架",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/chenshuideshizi/fwx-cli.git"
   },
-  "keywords": [],
+  "keywords": ["fwx-cli", "fwx", "cli"],
   "author": "",
   "license": "ISC",
   "bugs": {
